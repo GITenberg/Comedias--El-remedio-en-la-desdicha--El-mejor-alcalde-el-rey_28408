@@ -1,0 +1,48 @@
+_repo: Comedias--El-remedio-en-la-desdicha--El-mejor-alcalde-el-rey_28408
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Tenreiro, Ramón María
+    aliases:
+    - Tenreiro, Ramon Maria
+    - Tenreiro, R. M. (Ramón María)
+    birthdate: 1879
+    gutenberg_agent_id: '33339'
+    url: http://www.gutenberg.org/2009/agents/33339
+  - agent_name: Gómez Ocerín, J.
+    aliases:
+    - Ocerín, J. Gómez
+    - Gomez Ocerin, J.
+    gutenberg_agent_id: '33318'
+    url: http://www.gutenberg.org/2009/agents/33318
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vega, Lope de
+    aliases:
+    - Burguillos, Tome de
+    - Burguillos, Tomé de
+    - Carpio, Lope Félix de Vega
+    - De Vega, Lope
+    - Carpio, Lope Felix de Vega
+    birthdate: 1562
+    deathdate: 1635
+    gutenberg_agent_id: '25752'
+    url: http://www.gutenberg.org/2009/agents/25752
+    wikipedia: http://es.wikipedia.org/wiki/Lope_de_Vega
+description: ''
+gutenberg_issued: '2009-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28408'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+title: 'Comedias: El remedio en la desdicha; El mejor alcalde, el rey'
+url: http://www.gutenberg.org/ebooks/28408
